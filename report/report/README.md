@@ -42,6 +42,8 @@ Superstore Sales Dataset
 ## 📈 Conclusion
 This project demonstrates how data analysis helps businesses make better decisions using Excel-based insights.
 
+Time-based analysis was considered but not included due to dataset structure.
+
 ---
 
 ## 👤 Author
