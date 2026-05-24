@@ -34,14 +34,14 @@ This analysis helps businesses understand sales performance and make data-driven
 ## 📊 Dashboard Preview
 
 ### Full Dashboard
-![Dashboard](ds1_dashboard.png)
+![Dashboard](https://github.com/gayatri4632/FUTURE_DS_01/blob/main/ds1_dashboard.png?raw=true)
 
 ### Chart 1
-![Chart 1](ds1_chart1.png)
+![Chart 1](https://github.com/gayatri4632/FUTURE_DS_01/blob/main/ds1_chart1.png?raw=true)
 
 ### Chart 2
-![Chart 2](ds1_chart2.png)
+![Chart 2](https://github.com/gayatri4632/FUTURE_DS_01/blob/main/ds1_chart2.png?raw=true)
 
 ### Chart 3
-![Chart 3](ds1_chart3.png)
+![Chart 3](https://github.com/gayatri4632/FUTURE_DS_01/blob/main/ds1_chart3.png?raw=true)
 
