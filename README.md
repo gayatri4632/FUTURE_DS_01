@@ -44,8 +44,4 @@ This analysis helps businesses understand sales performance and make data-driven
 
 ### Chart 3
 ![Chart 3](ds1_chart3.png)
-### Chart 2
-![Chart 2](./ds1_chart2.png.png)
 
-### Chart 3
-![Chart 3](./ds1_chart3.png.png)
