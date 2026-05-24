@@ -30,3 +30,17 @@ This project analyzes business sales data to understand revenue trends, top-perf
 
 ## 💡 Conclusion
 This analysis helps businesses understand sales performance and make data-driven decisions.
+
+## 📊 Dashboard Preview
+
+### Full Dashboard
+![Dashboard](dashboard/ds1_dashboard.png)
+
+### Chart 1
+![Chart 1](dashboard/ds1_chart1.png)
+
+### Chart 2
+![Chart 2](dashboard/ds1_chart2.png)
+
+### Chart 3
+![Chart 3](dashboard/ds1_chart3.png)
