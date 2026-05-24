@@ -1,1 +1,1 @@
-this fikle contains data visualization
+This file contains data visualization and screenshots
